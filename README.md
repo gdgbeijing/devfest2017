@@ -1,6 +1,8 @@
 # 北京 GDG DevFest 2017
 北京 GDG DevFest 2017 开始筹备了！这个项目包含所有和 DevFest 活动相关的前期准备工作和会后工作。相关讨论通过 issue 进行，相关信息和结论写作项目文档。
 
+本次活动的志愿者和讲师会获得来自 Google DevRel 部门的 DevFest 17 志愿者证书。
+
 # 筹备篇
 ### 相关资料
 - Google 官方面向全球 600+ GDG 提供的 [Organizer’s Guide](https://docs.google.com/presentation/d/19XKqGQT7NNeoXuZjoFwuGHPBzeTvndLSy5YRXXhIOko/present)
